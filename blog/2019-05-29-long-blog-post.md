@@ -21,7 +21,7 @@ Before we begin, ensure you have the following prerequisites:
 1. **Set up SSH with GitHub account.**
 2. **Install Node.js and Yarn** using the instructions below.
 3. **Create a repository on GitHub** to host your website.
-4. ** Automatic deployment**
+4. **Automatic deployment using GitHub Actions**
 
 ---
 
