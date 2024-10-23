@@ -11,6 +11,9 @@ Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
 
 <!-- truncate -->
 
+
+
+
 # Create & Deploy Static Website Using Docusaurus & GitHub Pages, Customize Using Markdown
 
 In this tutorial, we will walk through the process of creating and deploying a static website using Docusaurus and GitHub Pages, with the ability to customize the site using Markdown files.
@@ -24,6 +27,7 @@ Before we begin, ensure you have the following prerequisites:
 4. **Automatic deployment using GitHub Actions**
 
 ---
+# Create & Deploy Static Website Using Docusaurus & GitHub Pages, Customize Using Markdown
 
 ### Step 1: Set up SSH with GitHub
 
