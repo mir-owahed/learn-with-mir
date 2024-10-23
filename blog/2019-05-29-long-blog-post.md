@@ -27,7 +27,6 @@ Before we begin, ensure you have the following prerequisites:
 4. **Automatic deployment using GitHub Actions**
 
 ---
-# Create & Deploy Static Website Using Docusaurus & GitHub Pages, Customize Using Markdown
 
 ### Step 1: Set up SSH with GitHub
 
